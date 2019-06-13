@@ -1,11 +1,11 @@
 # terryhud
 ## Навигация // Navigation
-- [EN](https://github.com/T3RRY4/terryhud#en)
-  - [ReadMe](https://github.com/T3RRY4/terryhud#read)
-  - [Installation](https://github.com/T3RRY4/terryhud#installation)
-- [RU](https://github.com/T3RRY4/#ru)
-  - [Важная информация](https://github.com/T3RRY4/#важная)
-  - [Установка](https://github.com/T3RRY4/#установка)
+- [EN](#en)
+  - [ReadMe](#readme)
+  - [Installation](#installation)
+- [RU](#ru)
+  - [Важная информация](#важная-информация)
+  - [Установка](#установка)
   
 ## EN
 ### ReadMe
