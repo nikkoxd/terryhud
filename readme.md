@@ -1,6 +1,6 @@
 # terryhud
 ### Важная информация
-terryhud основан на ToonHUD с использованием [мода на фоны от Plum](https://gamebanana.com/guis/34555).  
+terryhud основан на ToonHUD с использованием [Background Mod от Plum](https://gamebanana.com/guis/34555).  
 terryhud is based on ToonHUD using [Plum's Background Mod](https://gamebanana.com/guis/34555).
 ### Установка
 1. Скачай [последнюю версию](https://github.com/T3RRY4/terryhud/archive/master.zip)
